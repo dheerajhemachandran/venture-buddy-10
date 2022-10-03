@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/venture-buddy-10/static/css/main.09f4e495.css",
+    "main.js": "/venture-buddy-10/static/js/main.adab2d1c.js",
+    "static/media/ellipse.svg": "/venture-buddy-10/static/media/ellipse.05b49be7b004115895a9569a2a9e1587.svg",
+    "static/media/Cover.jpg": "/venture-buddy-10/static/media/Cover.f3ee558d01800967c28f.jpg",
+    "static/media/venturefull.svg": "/venture-buddy-10/static/media/venturefull.d5d61ff0c04decbd87b7b1a82755f0d0.svg",
+    "static/media/venture1.svg": "/venture-buddy-10/static/media/venture1.e444878ce820faef4922416c2e0cc7ea.svg",
+    "static/media/tools.svg": "/venture-buddy-10/static/media/tools.b4560af557404a99c727c464bcebaa7b.svg",
+    "static/media/livedeal.svg": "/venture-buddy-10/static/media/livedeal.5c61a00ac2c367e2fbe5fa88b8b52840.svg",
+    "static/media/myinvestment.svg": "/venture-buddy-10/static/media/myinvestment.52698a8663cfd11b8d40889c7f67b1e7.svg",
+    "static/media/refer.svg": "/venture-buddy-10/static/media/refer.3a1bd74ccaf62d580dee38fd75bde6d9.svg",
+    "static/media/arrowgrp.svg": "/venture-buddy-10/static/media/arrowgrp.ca5b6480d2effde93703ab7c1ef698f8.svg",
+    "static/media/logout.svg": "/venture-buddy-10/static/media/logout.ec5f0c7a89e2271e6261aae9f93af796.svg",
+    "static/media/wallet.svg": "/venture-buddy-10/static/media/wallet.59875d0890b914f5d0129c4f4a3ebf19.svg",
+    "static/media/mail.svg": "/venture-buddy-10/static/media/mail.ef708c1c81282356d185cf923e426717.svg",
+    "index.html": "/venture-buddy-10/index.html",
+    "static/media/faq.svg": "/venture-buddy-10/static/media/faq.ef03a0239aef222884df3840e18bbbe5.svg",
+    "static/media/icon.svg": "/venture-buddy-10/static/media/icon.90f4625ab59ac1fd56712bb69ec08380.svg",
+    "static/media/bell.svg": "/venture-buddy-10/static/media/bell.ba8e4a14b4f125504de33e468a27c84a.svg",
+    "static/media/support.svg": "/venture-buddy-10/static/media/support.abb3fb1021f04070f67189924fddc930.svg",
+    "static/media/Vector.svg": "/venture-buddy-10/static/media/Vector.dbc59653db73a0906afd8fd410b24f26.svg",
+    "main.09f4e495.css.map": "/venture-buddy-10/static/css/main.09f4e495.css.map",
+    "main.adab2d1c.js.map": "/venture-buddy-10/static/js/main.adab2d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f4e495.css",
+    "static/js/main.adab2d1c.js"
+  ]
+}
